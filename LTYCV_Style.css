@@ -1,4 +1,3 @@
-  <style>
             @font-face {
                         font-family: MyCustomFont;
                         src: url("https://www.w3schools.com/cssref/sansation_light.woff");
@@ -84,5 +83,4 @@
             .addBorder2 {
                   border:solid 2px blue;
                   }    
-                             
-        </style>    
+
