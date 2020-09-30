@@ -26,14 +26,14 @@ body {
         font-family: Verdana, Helvetica, Arial, sans-serif;
         font-size: 95%;
                              
-/* background image */
+/* background image  */
         background-image:url("https://cdn.pixabay.com/photo/2018/03/03/21/14/piano-3196616__340.jpg"); 
         background-blend-mode: lighten;
         background-position: 95% 10%;
         background-repeat:no-repeat;
-        background-attachment: fixed;
+        background-attachment: scroll;
         background-size: auto;                                
- 
+
      }
             
 .p1 {
@@ -86,3 +86,31 @@ a:hover {
 .addBorder2 {
 	border:solid 2px blue;
             }    
+
+
+#container-1{
+        width:99%;
+        margin:auto;
+        text-align: left;
+        background-color:#d6d6c2;
+        display: flex;
+        justify-content: center;
+
+        }
+
+      #container-1 div {
+        width: auto;
+        display: flex;
+        
+      }
+      
+      #navigation-1 {
+        width:auto;
+        margin:1%;
+      }
+      
+      #content-1{
+        float:left;
+        width:31.3%;
+        margin:1%;     
+      }  
