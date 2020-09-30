@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">   
+    <head>
+      <meta charset="utf-8">                        
+      <title> CV of Low Tze Yan </title>
+      <link rel="stylesheet" type="text/css" href="https://lms.hrdacademy.asia/files/8087349/LTY_StyleSheet(2).css?lmsauth=7e7dea7a8c0dd98c4998c8209d54a2a99e90c6ba" />
+
+    </head>
+ 
+  
+    <body>
+   
+<!-- HEADER -->
+    <header id="container-1">
+       <div id="navigation-1"> 
+        <a href="url">  |   Home    | </a> 
+        <a href="url">  |   About Me    | </a>  
+        <a href="url">  |   Contact   | </a> 
+      </div>
+    </header>
+ 
+<!-- MAIN SECTION -->     
+      <div>
+          <h2 class="headerclass2">CV of LOW Tze Yan</h2>
+            <p class="p1">
+            <em>
+              <strong>
+                Paralegal Advisor, Baker, Programmer, Gardener, Pianist, Former Corporate Senior Manager 
+              </strong> 
+            </em>
+                 
+          </p>  
+          <br>
+          <br>
+    
+       
+          <img
+src="https://lms.hrdacademy.asia/files/8087349/lty_thumb_lmsauth_9e8a09ecee4aa3e277dd7a3b178e62c8cf7471ae.jpg" 
+           alt="small profile picture"   
+            height="120" 
+            width="90"
+            >
+            <br>
+            <a href= "https://lms.hrdacademy.asia/files/8087349/Profile_Pic_(1)_lmsauth_1e75b4c0b9926af2f32ef24464d334b3ebfe4dbe.jpg"
+            target="_blank"
+            >click for larger picture 
+            </a>
+            <hr/>  
+      </div>
+      
+<!-- EXPERIENCE SECTION -->           
+        <h2 class="headerclass2">Experience</h2>
+          <p>
+           OVER 25 YEARS of Senior Management experience in Logistics, Management consulting, Oil and Gas Freight Forwarding, Warehousing, Service Logistics and Corporate Management.
+           <br> <br>
+           Presently working part-time on Corporate Legal advisory.
+           <br> <br>
+          </p>
+          
+          <p id="sub-p">
+           Bakes weekly, gardens daily, occasional pianist, part-time student in law and web development.
+          </p>              
+        <hr/>
+      
+ <!-- SKILLS SECTION -->     
+       <h2 class="headerclass2">Skills </h2>  
+        <ul>
+          <li> Analysis</li>
+          <li> Corporate Management</li>
+          <li> Talent Development</li>
+          <li> Piano playing by ear</li>
+        </ul>
+        <hr/>   
+ 
+ <!-- EDUCATION SECTION -->      
+      <h2 class="headerclass2">Education </h2>
+        <ol>
+          <li>Grade 7, Associated Board or Royal School of Music</li>
+          <li>SPM Malaysia, SM Taman SEA, Petaling Jaya, 1986</li>
+          <li>South Australian Matriculation, Taylor's College, 1987</li>
+          <li>New Zealand High School Certificate, Palmerston North Boys High School, 1988</li>
+          <li>Bachelor or Science (Computer Science), Massey University New Zealand,1991</li>
+          <li>Diploma in Business Studies, Massey University New Zealand, 1991</li>
+          <li>Bachelor or Science (Computer Science) (First Class Honors), Massey University New Zealand, 1992</li>
+        </ol>
+      
+      <hr/>
+
+ <!-- FOOTER -->
+    <footer id="container-1">
+       <div id="navigation-1"> 
+        <a href="url">  |   Home    | </a> 
+        <a href="url">  |   About Me    | </a>  
+        <a href="url">  |   Contact   | </a> 
+        <a href="https://lms.hrdacademy.asia/files/8087349/Bread_Recipe.html?lmsauth=d7e81d0c7ca8c05b4f27a3b602e71e7dc3a464b3"  target="_blank">  |   Bread Recipe   | </a> 
+                    
+      </div>
+      
+    </footer>   
+
+    </body>  
+
+</html>
