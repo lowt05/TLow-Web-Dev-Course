@@ -3,3 +3,4 @@
 19 Sep 2020: Uploaded the submission files for Assignment 1 & 2 <br>
 22 Sep 2020: Uploaded with an updated submission file incorporating CSS2 learnings (class, id, border)<br>
 29 Sep 2020: Updated with separated CSS3 learnings (separate css file)
+30 Sep 2020: Updated latest version with HTML5 structural elements (eg header, footer), Separated CSS file, and separate link to another page on footer (Bread Recipe)  
